@@ -10,3 +10,6 @@ You can easily train/test your IR images (or videos) using shell scripts (test_I
 
 For training, you should download the pre-trained weight file from https://pjreddie.com/media/files/yolov2.weights
 
+### Acknowledgements
+
+This research was supported by the MSIT (Ministry of Science, ICT), Korea, under the SW Starlab support program (IITP-2017-0-00897) supervised by the IITP (Institute for Information & communications Technology Promotion) and also supported by the MSIT, Korea, under the ICT Consilience Creative program (IITP-2017-R0346-16-1007) supervised by the IITP.
